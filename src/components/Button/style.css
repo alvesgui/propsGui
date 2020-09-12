@@ -1,0 +1,11 @@
+.button{
+    background-color: #ccc;
+}
+
+.button.danger{
+    background-color: red;
+}
+
+.button.success{
+    background-color: green;
+}
